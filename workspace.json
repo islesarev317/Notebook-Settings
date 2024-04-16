@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "b1ed5f3a8b735ca8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9aa0855ff190cc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b22280f23619440f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inner/IN - 230817153200.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fabfd862dc143f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4b0ea9f7b9e392",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54a3a64de811679f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Journal/A1/Obsidian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "80b0920c7018873d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92cc35beacfe7e14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "15349a562056e77e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31d5d237e8ec5093",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Wink/Wink.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 449.5
+  },
+  "right": {
+    "id": "6d1926448ca005af",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cd842eebe79a8dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "279b4ba5cc5edbbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inner/IN - 230817153200.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9286b6e6ed705645",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inner/IN - 230817153200.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c195fd5c65ce1d14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inner/IN - 230817153200.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "b22280f23619440f",
+  "lastOpenFiles": [
+    "Notes/Wink/Wink.md",
+    "Inner/IN - 230817153200.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup (Story.23).md",
+    "Notes/Home.md",
+    "Notes/English.md",
+    "Notes/IT/Computer Technologies.md",
+    "Notes/IT",
+    "Notes/Wink/Reindexer.md",
+    "Notes/Wink",
+    "Notes/IT/Python.md",
+    "Notes/Wink/New Cache.md",
+    "Journal/JR - 2404152059 - Obsidian ~ First Setup (Notebook).md",
+    "Settings/ST - 230816 - Journal.md",
+    "Notes/Wink/Postgres Analytics.md",
+    "Notes/Wink/SDP.md",
+    "Notes/Wink/Wink CMS.md",
+    "Notes/Wink/Clickhouse Analytics.md",
+    "Notes/Wink/AuthStorage.md",
+    "Notes/Wink/Настройка рабочего окружения.md",
+    "Notes/Wink/Напоминания.md",
+    "Notes/Wink/Лог 15 апреля.md",
+    "Journal/JR - 2308251426 - Relocate.md",
+    "Journal/JR - 2308301117 - Daily Note.md",
+    "Journal/JR - 2309261255 - Travel.md",
+    "Journal/JR - 2311022252 - Get Rid Strees (Essay).md",
+    "Journal/JR - 2402091505 - Job.md",
+    "Journal/JR - 2403041340 - Computer Science ~ Inspiration.md",
+    "Journal/JR - 2308241255 - Remainders.md",
+    "Attachments/Pasted image 20230926190334.png",
+    "Attachments/Pasted image 20230906180204.png",
+    "Attachments/notebookPandasEdu.pdf",
+    "Attachments/Pasted image 20231206165352.png",
+    "Attachments/Pasted image 20230928195102.png",
+    "Notes/wb-profiles.properties",
+    "Attachments/SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
+    "Attachments/Pasted image 20231129130211.png",
+    "Attachments/Pasted Image 20231123215601_803.png",
+    "Attachments/Pasted Image 20231123215601_800.png",
+    "Attachments/Pasted Image 20231123215601_781.png",
+    "Attachments/Pasted image 20231017154115.png",
+    "Attachments/Pasted image 20230925181037.png",
+    "Notes",
+    "Settings",
+    "Attachments",
+    "Inner",
+    "Journal"
+  ]
+}

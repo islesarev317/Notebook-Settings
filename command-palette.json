@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-spellcheck",
+    "editor:fold-all",
+    "editor:unfold-all"
+  ]
+}

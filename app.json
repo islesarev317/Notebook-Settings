@@ -1,0 +1,16 @@
+{
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "autoConvertHtml": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "Notes",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Attachments",
+  "userIgnoreFilters": [
+    "Attachments/"
+  ],
+  "propertiesInDocument": "source"
+}

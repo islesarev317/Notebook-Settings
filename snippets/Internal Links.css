@@ -1,0 +1,24 @@
+/* ------------------- */
+/* ---- Edit mode ---- */
+/* ------------------- */
+
+.cm-hmd-internal-link .cm-underline,
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"] span.cm-hmd-internal-link .cm-underline
+{
+	text-decoration-line: none !important;
+}
+
+.cm-hmd-internal-link:hover,
+.cm-hmd-internal-link .cm-underline:hover
+{
+	text-decoration-line: none !important;
+}
+
+/* ------------------- */
+/* ---- Read mode ---- */
+/* ------------------- */
+
+.internal-link
+{
+	text-decoration-line: none !important;
+}

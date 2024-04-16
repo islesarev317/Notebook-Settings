@@ -1,0 +1,169 @@
+{
+  "Computer Tech": {
+    "main": {
+      "id": "b1ed5f3a8b735ca8",
+      "type": "split",
+      "children": [
+        {
+          "id": "4c3ef9e0a105a160",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "ed84c5814ce0644e",
+              "type": "leaf",
+              "state": {
+                "type": "markdown",
+                "state": {
+                  "file": "Notes/Wink.md",
+                  "mode": "preview",
+                  "source": false
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "7fabfd862dc143f3",
+      "type": "split",
+      "children": [
+        {
+          "id": "4f4b0ea9f7b9e392",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "54a3a64de811679f",
+              "type": "leaf",
+              "state": {
+                "type": "search",
+                "state": {
+                  "query": "tag:#Journal/G1/Game",
+                  "matchingCase": false,
+                  "explainSearch": false,
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabeticalReverse"
+                }
+              }
+            },
+            {
+              "id": "80b0920c7018873d",
+              "type": "leaf",
+              "state": {
+                "type": "tag",
+                "state": {
+                  "sortOrder": "alphabeticalReverse",
+                  "useHierarchy": true
+                }
+              }
+            },
+            {
+              "id": "92cc35beacfe7e14",
+              "type": "leaf",
+              "state": {
+                "type": "bookmarks",
+                "state": {}
+              }
+            },
+            {
+              "id": "15349a562056e77e",
+              "type": "leaf",
+              "state": {
+                "type": "file-explorer",
+                "state": {
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "4ccfde76ceac19df",
+              "type": "leaf",
+              "pinned": true,
+              "state": {
+                "type": "markdown",
+                "state": {
+                  "file": "Notes/Computer Technologies.md",
+                  "mode": "preview",
+                  "source": false
+                },
+                "pinned": true
+              }
+            }
+          ],
+          "currentTab": 4
+        }
+      ],
+      "direction": "horizontal",
+      "width": 350.5
+    },
+    "right": {
+      "id": "6d1926448ca005af",
+      "type": "split",
+      "children": [
+        {
+          "id": "3cd842eebe79a8dc",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "279b4ba5cc5edbbb",
+              "type": "leaf",
+              "state": {
+                "type": "backlink",
+                "state": {
+                  "file": "Notes/Computer Technologies.md",
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            },
+            {
+              "id": "9286b6e6ed705645",
+              "type": "leaf",
+              "state": {
+                "type": "outgoing-link",
+                "state": {
+                  "file": "Notes/Computer Technologies.md",
+                  "linksCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            },
+            {
+              "id": "c195fd5c65ce1d14",
+              "type": "leaf",
+              "state": {
+                "type": "outline",
+                "state": {
+                  "file": "Notes/Computer Technologies.md"
+                }
+              }
+            }
+          ],
+          "currentTab": 2
+        }
+      ],
+      "direction": "horizontal",
+      "width": 300,
+      "collapsed": true
+    },
+    "left-ribbon": {
+      "hiddenItems": {
+        "switcher:Open quick switcher": false,
+        "graph:Open graph view": false,
+        "command-palette:Open command palette": false,
+        "zk-prefixer:Create new unique note": false,
+        "oz-clear-unused-images:Clear Unused Images": false,
+        "workspaces:Manage workspace layouts": false
+      }
+    },
+    "active": "4ccfde76ceac19df",
+    "mtime": "2024-04-15T21:35:50+03:00"
+  }
+}

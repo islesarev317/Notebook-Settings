@@ -1,0 +1,21 @@
+{
+  "accentColor": "",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "001 - External Link",
+    "002 - Internal Links",
+    "003 - Lists",
+    "006 - Edit Mode",
+    "004 - Highlight",
+    "004 - Edit Mode",
+    "005 - Highlight",
+    "001 - Bold Text",
+    "Checklists",
+    "Links",
+    "External Link",
+    "Internal Links",
+    "Highlight"
+  ],
+  "textFontFamily": "",
+  "baseFontSize": 15
+}
